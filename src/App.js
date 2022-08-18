@@ -13,5 +13,5 @@ function App() {
   );
 }
 
-// Added text goes here
+// Export
 export default App;
